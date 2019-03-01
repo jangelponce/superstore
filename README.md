@@ -6,4 +6,5 @@ bundle
 rails db:create db:migrate 
 
 ## Execute
-rails importer:sales[path/to/csv.csv"]
+in superstore's rails project execute
+rails importer:sales[Superstore_sales.csv"]
